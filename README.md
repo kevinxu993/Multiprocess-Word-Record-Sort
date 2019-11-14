@@ -1,4 +1,4 @@
-# multiprocess-word-record-sort
+# Multiprocess Word Record Sort
 
 🍴the word records based on frequency counts.
 
